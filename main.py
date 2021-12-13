@@ -1,4 +1,4 @@
-'''Credits: resilient'''
+'''Credits: meth1337/amethist'''
 
 from discord_webhook import DiscordWebhook
 import requests
