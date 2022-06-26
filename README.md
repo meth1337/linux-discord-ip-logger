@@ -1,4 +1,4 @@
-# discord-ip-logger
+# linux-discord-ip-logger
 Discord IP logger optimized for Linux. <br >
 ![screenshot](ghoulss.png)
 # Instruction for usage
